@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=oneironaut2209)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **oneironaut2209/oneironaut2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
